@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redesigned-broccoli/static/css/main.c7608fba.css",
+    "main.js": "/redesigned-broccoli/static/js/main.d6d9a93b.js",
+    "static/css/720.cec62594.chunk.css": "/redesigned-broccoli/static/css/720.cec62594.chunk.css",
+    "static/js/720.d410180a.chunk.js": "/redesigned-broccoli/static/js/720.d410180a.chunk.js",
+    "static/js/592.87b2c091.chunk.js": "/redesigned-broccoli/static/js/592.87b2c091.chunk.js",
+    "static/js/356.1c03cbca.chunk.js": "/redesigned-broccoli/static/js/356.1c03cbca.chunk.js",
+    "static/media/hobspot-loader.webp": "/redesigned-broccoli/static/media/hobspot-loader.b653093eceea45b8803d.webp",
+    "index.html": "/redesigned-broccoli/index.html",
+    "main.c7608fba.css.map": "/redesigned-broccoli/static/css/main.c7608fba.css.map",
+    "main.d6d9a93b.js.map": "/redesigned-broccoli/static/js/main.d6d9a93b.js.map",
+    "720.cec62594.chunk.css.map": "/redesigned-broccoli/static/css/720.cec62594.chunk.css.map",
+    "720.d410180a.chunk.js.map": "/redesigned-broccoli/static/js/720.d410180a.chunk.js.map",
+    "592.87b2c091.chunk.js.map": "/redesigned-broccoli/static/js/592.87b2c091.chunk.js.map",
+    "356.1c03cbca.chunk.js.map": "/redesigned-broccoli/static/js/356.1c03cbca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7608fba.css",
+    "static/js/main.d6d9a93b.js"
+  ]
+}

